@@ -1,0 +1,15 @@
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\validations\UniqueValueValidator.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\GraphicsLoginApiApplication.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\models\dto\request\UserRequest.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\models\User.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\models\dto\request\LoginRequest.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\models\CleanPassword.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\repositories\UserRepository.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\validations\UniqueValue.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\models\dto\response\UserResponse.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\security\SecurityConfigurations.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\security\TokenManager.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\controller\UserController.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\security\TokenAuthenticationFilter.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\controller\UserAuthenticationController.java
+C:\GraphicLoginApi\src\main\java\br\com\unitri\graphicsLoginApi\security\UserService.java
