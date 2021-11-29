@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="667c520d-9806-4442-a657-d84f5f92773b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/unitri/graphicsLoginApi/controller/TokenValidationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/unitri/graphicsLoginApi/controller/UserAuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/unitri/graphicsLoginApi/controller/UserAuthenticationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/unitri/graphicsLoginApi/security/SecurityConfigurations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/unitri/graphicsLoginApi/security/SecurityConfigurations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/unitri/graphicsLoginApi/security/TokenManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/unitri/graphicsLoginApi/security/TokenManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/unitri/graphicsLoginApi/controller/UserAuthenticationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/unitri/graphicsLoginApi/controller/UserAuthenticationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/unitri/graphicsLoginApi/controller/TokenValidationController.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
