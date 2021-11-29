@@ -36,7 +36,7 @@ public class TokenManager {
                 .compact();
     }
 
-    public boolean isValid ( String jwt ) {
+    public boolean isValid (String jwt) {
         try {
             Jwts.parser().setSigningKey(this.secret).parseClaimsJws(jwt);
             return true;
@@ -45,7 +45,7 @@ public class TokenManager {
         }
     }
 
-    public Long getIdUsuario ( String jwt ) {
+    public Long getIdUsuario (String jwt) {
         Claims claims = Jwts.parser().setSigningKey(this.secret)
                 .parseClaimsJws(jwt).getBody();
         return Long.parseLong(claims.getSubject());
