@@ -51,9 +51,7 @@ public class UserAuthenticationController {
                 return ResponseEntity.notFound().build();
             }
             Long userId = user.get().getId();
-            return ResponseEntity.ok(new AuthenticationResponse(jwt, userId));
-
-        } catch (AuthenticationException e) {
+            return ResponseEntity.ok(new AuthenticationResponse(jwt, userId));        } catch (AuthenticationException e) {
             log.error("[Autenticacao] {}" , e);
             return ResponseEntity.badRequest().build();
         }
